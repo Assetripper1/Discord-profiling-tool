@@ -1,1 +1,1 @@
-# Discord-profiling-tool
+tool to make your discord profile look all fancy
