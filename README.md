@@ -1,1 +1,1 @@
-tool to make your discord profile look all fancy
+A tool designed to profile users and bots on discord simply by searching the name
